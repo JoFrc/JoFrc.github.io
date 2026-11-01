@@ -35,6 +35,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 - **\[2026.01\]** &nbsp;🎉🎉 One paper accepted by ICRA 2026.
 - **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper MetADV is awarded the **Most Popular Demo** in ACM MM 2025. Congrats!
 - **\[2025.11\]** &nbsp;🎉🎉 One first-authored paper accepted by AAAI 2026.
+- **\[2025.11\]** &nbsp;🎉🎉 One paper accepted by NeurIPS 2025 PersonaNLP Workshop.
 - **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper was selected as a **Cover Article** for the November 2025 issue of the Journal of Image and Graphics. Congrats!
 - **\[2025.09\]** &nbsp;🎉🎉 One first-authored paper accepted by Journal of Image and Graphics.
 - **\[2025.09\]** &nbsp;🎉🎉 One paper accepted by Chinese Journal of Electronics.
@@ -89,6 +90,12 @@ My research focuses on **safety-critical scenario generation for autonomous syst
   Tianyuan Zhang, **Jiangfan Liu**, Yongkang Guo, Fangzhi Zhong, Wei Bao, Jian Dong✉︎, Aishan Liu, Xianglong Liu
 
   Chinese Journal of Electronics (CJE), 2025.
+
+- **Uncovering Strategic Egoism Behaviors in Large Language Models**&nbsp;\[[pdf](https://arxiv.org/pdf/2511.09920)\]
+
+  Yaoyuan Zhang, Aishan Liu, Zonghao Ying✉︎, Xianglong Liu, **Jiangfan Liu**, Yisong Xiao, Qihang Zhang
+
+  NeurIPS 2025 Workshop on LLM Persona Modeling (PersonaNLP), 2025.
 
 - **MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving**&nbsp;\[[pdf](https://arxiv.org/pdf/2508.06534?)\]
 
