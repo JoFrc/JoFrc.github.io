@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Jiangfan Liu** is a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA), supervised by Prof. <a href='https://xlliu-beihang.github.io/'>Xianglong Liu</a> and Prof. <a href='https://liuaishan.github.io/index.html'>Aishan Liu</a>.
+**Jiangfan Liu** is a PhD student at State Key Laboratory of Software Development Environment at the Beihang University (BUAA), supervised by Prof. <a href='https://xlliu-beihang.github.io/'>Xianglong Liu</a> and Prof. <a href='https://liuaishan.github.io/index.html'>Aishan Liu</a>.
 
 My research focuses on **safety-critical scenario generation for autonomous systems**, including autonomous driving and embodied intelligence. Recently, I am actively exploring **world models and recursive self-improvement**.
 
