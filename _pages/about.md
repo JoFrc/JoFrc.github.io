@@ -12,7 +12,7 @@ redirect_from:
 
 **Jiangfan Liu** is a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA), supervised by Prof. <a href='https://xlliu-beihang.github.io/'>Xianglong Liu</a> and Prof. <a href='https://liuaishan.github.io/index.html'>Aishan Liu</a>.
 
-My research interest includes autonomous driving safety and adversarial attack.
+My research focuses on **safety-critical scenario generation for autonomous systems**, including autonomous driving and embodied intelligence. Recently, I am actively exploring **world models and recursive self-improvement**.
 
 # 📖 Educations
 
@@ -92,9 +92,9 @@ My research interest includes autonomous driving safety and adversarial attack.
 
 - **MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving**&nbsp;\[[pdf](https://arxiv.org/pdf/2508.06534?)\]
 
-Aishan Liu, Jiakai Wang, Tianyuan Zhang, Hainan Li, **Jiangfan Liu**, Siyuan Liang, Yilong Ren, Xianglong Liu✉︎, Dacheng Tao
+  Aishan Liu, Jiakai Wang, Tianyuan Zhang, Hainan Li, **Jiangfan Liu**, Siyuan Liang, Yilong Ren, Xianglong Liu✉︎, Dacheng Tao
 
-ACM Multimedia (ACM MM), 2025. <font color=red>Most Popular Demo Award</font>
+  ACM Multimedia (ACM MM), 2025. <font color=red>Most Popular Demo Award</font>
 
 - **A survey of safety evaluation data generation techniques for autonomous driving**&nbsp;\[[pdf](https://www.cjig.cn/previewFile?name=面向自动驾驶的安全评测数据生成技术综述&fileName=面向自动驾驶的安全评测数据生成技术综述&id=93965378&type=pdf&lang=zh)\]
 
