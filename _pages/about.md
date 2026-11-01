@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Jiangfan Liu** is a PhD student at State Key Laboratory of Software Development Environment at the Beihang University (BUAA), supervised by Prof. <a href='https://xlliu-beihang.github.io/'>Xianglong Liu</a> and Prof. <a href='https://liuaishan.github.io/index.html'>Aishan Liu</a>.
+**Jiangfan Liu** is a Ph.D. student at the State Key Laboratory of Complex and Critical Software Environment (SKLCCSE), Beihang University (BUAA), supervised by Prof. Xianglong Liu and Prof. Aishan Liu.
 
-My research focuses on **safety-critical scenario generation for autonomous systems**, including autonomous driving and embodied intelligence. Recently, I am actively exploring **world models and recursive self-improvement**.
+My research focuses on **safety-critical scenario generation for autonomous systems**, including autonomous driving and embodied intelligence.
 
-# 📖 Educations
+# 📖 Education
 
-- **2024.09 - present**, Ph.D., Beihang University.
+- **2024.09 - present**, Ph.D. candidate, Beihang University.
 - **2021.09 - 2024.06**, M.Sc., CETC.
 - **2016.09 - 2020.06**, B.Sc., Xi'an Jiaotong University.
 
@@ -30,7 +30,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 - **\[2026.11\]** &nbsp;🎉🎉 One paper accepted by PR 2026.
 - **\[2026.08\]** &nbsp;🎉🎉 One paper accepted by PR 2026.
 - **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper LatentGuard is awarded the Best Student Paper in IJCAI DDL2.0 2026. Congrats!
-- **\[2026.08\]** &nbsp;🎉🎉 One first-authored paper accepted by IJCAI DDL2.0 2026.
+- **\[2026.08\]** &nbsp;🎉🎉 One paper accepted by IJCAI DDL2.0 2026.
 - **\[2026.07\]** &nbsp;🎉🎉 Two first-authored papers accepted by ACM MM 2026 (One regular paper and one demos/videos track paper).
 - **\[2026.01\]** &nbsp;🎉🎉 One paper accepted by ICRA 2026.
 - **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper MetADV is awarded the **Most Popular Demo** in ACM MM 2025. Congrats!
@@ -48,7 +48,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 
   Pattern Recognition (PR), 2026.
 
-- **Human-aligned robust multimodal cognitive state recognition from ocular and behavioral signals in autonomous driving**&nbsp;\[[pdf](https://www.sciencedirect.com/science/article/pii/S0031320326016523)\]
+- **Human-Aligned Robust Multimodal Cognitive State Recognition From Ocular and Behavioral Signals in Autonomous Driving**&nbsp;\[[pdf](https://www.sciencedirect.com/science/article/pii/S0031320326016523)\]
 
   Tianyuan Zhang, Lu Wang, Jiaqi Kang, **Jiangfan Liu**, Xinwei Zhang, Yuwei Chen, Mingchuan Zhang, Jiakai Wang, Aishan Liu✉︎, Xianglong Liu
 
@@ -72,7 +72,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 
   ACM Multimedia (ACM MM), 2026.
 
-- **NSF-HRPT: Neural Semantic Field meets Hierarchical Risk Perception Tree for Safety-Critical Scenario Assessment**&nbsp;\[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11696046)\]
+- **NSF-HRPT: Neural Semantic Field Meets Hierarchical Risk Perception Tree for Safety-Critical Scenario Assessment**&nbsp;\[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11696046)\]
 
   Yu Zhao, Jiangyu Pan, Tao Hu, Ming Yin, Fan Yang, **Jiangfan Liu**, Xiubo Liang✉︎
 
@@ -96,13 +96,13 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 
   ACM Multimedia (ACM MM), 2025. <font color=red>Most Popular Demo Award</font>
 
-- **A survey of safety evaluation data generation techniques for autonomous driving**&nbsp;\[[pdf](https://www.cjig.cn/previewFile?name=面向自动驾驶的安全评测数据生成技术综述&fileName=面向自动驾驶的安全评测数据生成技术综述&id=93965378&type=pdf&lang=zh)\]
+- **A Survey of Safety Evaluation Data Generation Techniques for Autonomous Driving**&nbsp;\[[pdf](https://www.cjig.cn/previewFile?name=面向自动驾驶的安全评测数据生成技术综述&fileName=面向自动驾驶的安全评测数据生成技术综述&id=93965378&type=pdf&lang=zh)\]
 
   **Jiangfan Liu**, Tianyuan Zhang, Fangzhi Zhong, Peng Yue, Aishan Liu✉︎, Xianglong Liu
 
   Journal of Image and Graphics, 2025.
 
-- **Generation and Countermeasures of adversarial examples on vision: a survey**&nbsp;\[[pdf](https://link.springer.com/content/pdf/10.1007/s10462-024-10841-z.pdf)\]
+- **Generation and Countermeasures of Adversarial Examples on Vision: A Survey**&nbsp;\[[pdf](https://link.springer.com/content/pdf/10.1007/s10462-024-10841-z.pdf)\]
 
   **Jiangfan Liu**†, Yishan Li†, Yanming Guo✉︎, Yu Liu, Jun Tang, Ying Nie
 

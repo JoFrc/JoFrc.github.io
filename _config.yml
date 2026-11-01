@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiangfan Liu"
-description              : "I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA)."
+description              : "I am a Ph.D. student at the State Key Laboratory of Complex and Critical Software Environment (SKLCCSE), Beihang University (BUAA)."
 repository               : "JoFrc/JoFrc.github.io"
 
 # google analytics
@@ -36,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "JoFrc"
   google_plus      :
   keybase          :
   instagram        :
