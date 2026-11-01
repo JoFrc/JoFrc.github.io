@@ -29,7 +29,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 # 🔥 News
 - **\[2026.11\]** &nbsp;🎉🎉 One paper accepted by PR 2026.
 - **\[2026.08\]** &nbsp;🎉🎉 One paper accepted by PR 2026.
-- **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper LatentGuard is awarded the Best Student Paper in IJCAI DDL2.0 2026. Congrats!
+- **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper LatentGuard is awarded the **Best Student Paper** in IJCAI DDL2.0 2026. Congrats!
 - **\[2026.08\]** &nbsp;🎉🎉 One paper accepted by IJCAI DDL2.0 2026.
 - **\[2026.07\]** &nbsp;🎉🎉 Two first-authored papers accepted by ACM MM 2026 (One regular paper and one demos/videos track paper).
 - **\[2026.01\]** &nbsp;🎉🎉 One paper accepted by ICRA 2026.
@@ -107,7 +107,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 
   **Jiangfan Liu**, Tianyuan Zhang, Fangzhi Zhong, Peng Yue, Aishan Liu✉︎, Xianglong Liu
 
-  Journal of Image and Graphics, 2025.
+  Journal of Image and Graphics, 2025. <font color=red>Cover Article</font>
 
 - **Generation and Countermeasures of Adversarial Examples on Vision: A Survey**&nbsp;\[[pdf](https://link.springer.com/content/pdf/10.1007/s10462-024-10841-z.pdf)\]
 
