@@ -36,7 +36,7 @@ My research interest includes autonomous driving safety and adversarial attack.
 - **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper MetADV is awarded the **Most Popular Demo** in ACM MM 2025. Congrats!
 - **\[2025.11\]** &nbsp;🎉🎉 One first-authored paper accepted by AAAI 2026.
 - **\[<font color=red>2025.11</font>\]** &nbsp;🏆🏆 Our paper was selected as a **Cover Article** for the November 2025 issue of the Journal of Image and Graphics. Congrats!
-- **\[2025.09\]** &nbsp;🎉🎉 One first-authored paper accepted by Journal of Image and Graphics 2025.
+- **\[2025.09\]** &nbsp;🎉🎉 One first-authored paper accepted by Journal of Image and Graphics.
 - **\[2025.09\]** &nbsp;🎉🎉 One paper accepted by Chinese Journal of Electronics.
 - **\[2025.07\]** &nbsp;🎉🎉 One paper accepted by ACM MM 2025 (demos/videos track paper).
 
@@ -90,17 +90,11 @@ My research interest includes autonomous driving safety and adversarial attack.
 
   Chinese Journal of Electronics (CJE), 2025.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/2025/acmmm_metadv.png' alt='MetAdv platform overview' width='100%'></div></div>
-<div class='paper-box-text' markdown="1">
-
-**MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving**&nbsp;\[[pdf](https://arxiv.org/pdf/2508.06534?)\]
+- **MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving**&nbsp;\[[pdf](https://arxiv.org/pdf/2508.06534?)\]
 
 Aishan Liu, Jiakai Wang, Tianyuan Zhang, Hainan Li, **Jiangfan Liu**, Siyuan Liang, Yilong Ren, Xianglong Liu✉︎, Dacheng Tao
 
 ACM Multimedia (ACM MM), 2025. <font color=red>Most Popular Demo Award</font>
-
-</div>
-</div>
 
 - **A survey of safety evaluation data generation techniques for autonomous driving**&nbsp;\[[pdf](https://www.cjig.cn/previewFile?name=面向自动驾驶的安全评测数据生成技术综述&fileName=面向自动驾驶的安全评测数据生成技术综述&id=93965378&type=pdf&lang=zh)\]
 
