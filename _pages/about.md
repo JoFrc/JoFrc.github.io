@@ -58,7 +58,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 
   Tianyuan Zhang, Maoran Ye, Yang Qu, **Jiangfan Liu**, Zonglei Jing, Taichuan Li, Aishan Liu✉︎, Jiakai Wang, Yuqing Ma, Xianglong Liu
 
-  International Joint Conference on Artificial Intelligence (IJCAI) DDL2.0, 2026. <font color=red>Best Student Paper Award</font>
+  IJCAI 2026 Workshop on AIGC Safety (DDL 2.0), 2026. <font color=red>Best Student Paper Award</font>
 
 - **ThreatVerse: A Closed-Loop World Model Simulator for Autonomous Driving Safety Evaluation**&nbsp;
 
