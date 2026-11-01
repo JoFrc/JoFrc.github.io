@@ -91,7 +91,7 @@ My research focuses on **safety-critical scenario generation for autonomous syst
 
   Chinese Journal of Electronics (CJE), 2025.
 
-- **Uncovering Strategic Egoism Behaviors in Large Language Models**&nbsp;\[[pdf](https://arxiv.org/pdf/2511.09920)\]
+- **Uncovering Strategic Egoism Behaviors in Large Language Models**&nbsp;
 
   Yaoyuan Zhang, Aishan Liu, Zonghao Ying✉︎, Xianglong Liu, **Jiangfan Liu**, Yisong Xiao, Qihang Zhang
 
