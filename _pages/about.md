@@ -18,7 +18,7 @@ My research interest includes autonomous driving safety and adversarial attack.
 
 - **2024.09 - present**, Ph.D., Beihang University.
 - **2021.09 - 2024.06**, M.Sc., CETC.
-- **2016.09 - 2020.06**, B.Sc., Xi’an Jiaotong University.
+- **2016.09 - 2020.06**, B.Sc., Xi'an Jiaotong University.
 
 # 🎖 Honors and Awards
 - **\[2026.10\]** &nbsp;Selected for the **Young Science and Technology Scientists Sponsorship Program by CAST - Doctoral Student Special Plan**.
