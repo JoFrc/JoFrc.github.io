@@ -90,11 +90,17 @@ My research interest includes autonomous driving safety and adversarial attack.
 
   Chinese Journal of Electronics (CJE), 2025.
 
-- **MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving**&nbsp;\[[pdf](https://arxiv.org/pdf/2508.06534?)\]
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/2025/acmmm_metadv.png' alt='MetAdv platform overview' width='100%'></div></div>
+<div class='paper-box-text' markdown="1">
 
-  Aishan Liu, Jiakai Wang, Tianyuan Zhang, Hainan Li, **Jiangfan Liu**, Siyuan Liang, Yilong Ren, Xianglong Liu✉︎, Dacheng Tao
+**MetAdv: A Unified and Interactive Adversarial Testing Platform for Autonomous Driving**&nbsp;\[[pdf](https://arxiv.org/pdf/2508.06534?)\]
 
-  ACM Multimedia (ACM MM), 2025. <font color=red>Most Popular Demo Award</font>
+Aishan Liu, Jiakai Wang, Tianyuan Zhang, Hainan Li, **Jiangfan Liu**, Siyuan Liang, Yilong Ren, Xianglong Liu✉︎, Dacheng Tao
+
+ACM Multimedia (ACM MM), 2025. <font color=red>Most Popular Demo Award</font>
+
+</div>
+</div>
 
 - **A survey of safety evaluation data generation techniques for autonomous driving**&nbsp;\[[pdf](https://www.cjig.cn/previewFile?name=面向自动驾驶的安全评测数据生成技术综述&fileName=面向自动驾驶的安全评测数据生成技术综述&id=93965378&type=pdf&lang=zh)\]
 
